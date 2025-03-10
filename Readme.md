@@ -52,4 +52,5 @@ Recently tested out **EDA on Customer Churn Prediction Dataset** using **Google'
 🔹 This tool is meant to **enhance productivity** by streamlining workflows, not eliminating the need for **critical thinking and problem-solving**.  
 
 ## **Notebook:**  
-📌 *(Provide the link to your Google Colab Notebook here)*  
+📌 https://github.com/CodeCipheAI/Data-Science-Agent-Gemini/blob/main/Bank_Churn_Prediction.ipynb
+
